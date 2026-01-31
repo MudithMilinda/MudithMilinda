@@ -50,35 +50,33 @@ I'm a Full Stack Developer with a passion for creating seamless digital experien
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,dart&perline=5" alt="Programming Languages" />
 </p>
 
-<br/>
+
 
 ### 🎨 Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&perline=5" alt="Frontend" />
 </p>
 
-<br/>
+
 
 ### ⚙️ Backend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nextjs&perline=5" alt="Backend" />
 </p>
 
-<br/>
+
 
 ### 📱 Mobile App Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react&perline=5" alt="Mobile" />
 </p>
 
-<br/>
 
 ### 🗄️ Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=5" alt="Database" />
 </p>
 
-<br/>
 
 ### 🔧 Tools & Others
 <p align="center">
